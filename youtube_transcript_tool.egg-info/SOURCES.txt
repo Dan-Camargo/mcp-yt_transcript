@@ -1,0 +1,7 @@
+YtTranscript.py
+pyproject.toml
+youtube_transcript_tool.egg-info/PKG-INFO
+youtube_transcript_tool.egg-info/SOURCES.txt
+youtube_transcript_tool.egg-info/dependency_links.txt
+youtube_transcript_tool.egg-info/requires.txt
+youtube_transcript_tool.egg-info/top_level.txt

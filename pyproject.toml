@@ -1,0 +1,10 @@
+[project]
+name = "youtube-transcript-tool"
+version = "0.1.0"
+description = "A Model Context Protocol (MCP) server that provides YouTube video transcript extraction functionality"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastmcp>=0.4.1",
+    "youtube-transcript-api>=0.6.2",
+]
